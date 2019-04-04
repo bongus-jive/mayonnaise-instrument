@@ -1,0 +1,6 @@
+{
+  "input" : [
+    { "item" : "egg", "count" : 1 }
+  ],
+  "output" : { "item" : "pat_mayo", "count" : 1 }
+}
