@@ -2,19 +2,19 @@
   "itemName" : "pat_mayo",
   "price" : 3000,
   "category" : "Instrument",
-  "inventoryIcon" : "mayo.png",
+  "inventoryIcon" : "pat_mayoicon.png",
   "maxStack" : 1,
   "rarity" : "Legendary",
   "description" : "yes",
   "shortdescription" : "mayonnaise",
-  "largeImage" : "mayo.png",
-  "image" : "mayo.png",
+  "largeImage" : "pat_mayo.png",
+  "image" : "pat_mayo.png",
   "tooltipKind" : "tool",
-  "activeImage" : "mayo.png",
+  "activeImage" : "pat_mayo.png",
   "activeAngle" : 0,
   "activeHandPosition" : [0.1, 0.1],
 
   "handPosition" : [0, 0],
   "twoHanded" : false,
-  "kind" : "mayo"
+  "kind" : "pat_mayo"
 }
