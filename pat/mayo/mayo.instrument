@@ -12,7 +12,7 @@
   "image": "mayo.png",
   "activeImage": "mayo.png",
   "activeAngle": 0,
-  "activeHandPosition": [ 0, -0.1 ],
+  "activeHandPosition": [ -0.1, -0.1 ],
   "handPosition": [ 0, 0 ],
   "twoHanded": false,
   "kind": "pat_mayo"
