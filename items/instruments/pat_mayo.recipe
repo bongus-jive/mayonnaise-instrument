@@ -1,7 +1,7 @@
 {
-  "input" : [
-    { "item" : "egg", "count" : 1 }
+  "input": [
+    { "item": "egg", "count": 1 }
   ],
-  "output" : { "item" : "pat_mayo", "count" : 1 },
-	"groups" : ["craftingfood", "condiments"]
+  "output": { "item": "pat_mayo", "count": 1 },
+  "groups": [ "craftingfood", "condiments" ]
 }
